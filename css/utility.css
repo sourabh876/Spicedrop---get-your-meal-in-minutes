@@ -399,9 +399,10 @@ transform: translateY(-3px);
 
 .fade-trigger {
   opacity: 0;
-  transition: opacity 1.5s ease-in;
+  transition: opacity 1s ease-in;
 }
 
 .fade-trigger.visible {
   opacity: 1;
+
 }
